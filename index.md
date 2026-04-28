@@ -17,4 +17,4 @@ Analyzed user behavior data to evaluate the impact of a new landing page on conv
 
 ## Contact
 - Email: ulasaskinq@gmail.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/ulasaskin
