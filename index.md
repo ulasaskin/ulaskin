@@ -5,10 +5,10 @@ I am a research master's student in Linguistics and Communication Sciences at Ra
 
 ## Education
 - M.A. (research) in Linguistics and Communication Sciences (language processing track), Radboud University, The Netherlands, 2024-cont.
-  Thesis: Encoding of morphological information during spoken language comprehension (supervised by Dr. Andrea E. Martin and Dr. Filiz Tezcan     Semerci)
+  - Thesis: Encoding of morphological information during spoken language comprehension (supervised by Dr. Andrea E. Martin and Dr. Filiz Tezcan     Semerci)
   
 - B.A. in Linguistics, Hacettepe University, Turkey, 2020-2024
-  Thesis: Semantics of Control: Insights from Turkish
+  - Thesis: Semantics of Control: Insights from Turkish
 
 ## Employment
 -Student Assistant @ Language and Communication Dep., Radboud University, 2024-cont.
