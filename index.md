@@ -1,4 +1,4 @@
-# Ulaş Aşkın
+# Ulaş Aşkın (he/him)
 
 ## About Me
 I am a research master's student in Linguistics and Communication Sciences at Radboud University. I am very interested in the neural architecture of human languages as well as how the brain gives rise to this combinatory system that allows us to generate and comprehend infinitely unique sentences during production and comprehension. I have experience working with behavioral and neuroimaging data (MEG, EEG, MRI) and enjoy solving real world problems using data. Currently, I am developing my master's thesis on how brain encodes morphological information using MEG data and Temporal Response Function modeling.
